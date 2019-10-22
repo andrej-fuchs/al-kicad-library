@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LM2596
+D LM2596 DC/DC Converter Modul
+K lm2596, dcdc, converter
+$ENDCMP
+#
+#End Doc Library

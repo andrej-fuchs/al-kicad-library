@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP hb-gdt
+D Halfbridge GDT
+K gdt
+$ENDCMP
+#
+#End Doc Library
