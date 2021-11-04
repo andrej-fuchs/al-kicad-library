@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Raspberry_Pi_Zero_2W
+D Paspberry Pi Zero 2W Board
+K rpi
+F https://datasheets.raspberrypi.com/rpizero2/raspberry-pi-zero-2-w-reduced-schematics.pdf
+$ENDCMP
+#
+#End Doc Library
